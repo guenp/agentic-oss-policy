@@ -101,8 +101,7 @@ Some areas where help is needed:
 - Feedback from maintainers who have dealt with agent abuse
 - Feedback from agent builders on what's practical to implement
 
-Please open an issue to discuss before submitting a PR. And yes, we
-appreciate the irony — human contributors only, please.
+for substantial changes, please open an issue to discuss before submitting a PR.
 
 ---
 
