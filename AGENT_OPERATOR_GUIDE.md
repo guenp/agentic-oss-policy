@@ -8,8 +8,8 @@ comment it posts, every blog entry it publishes. "I didn't tell it to do that"
 is not a defense. You launched it. You own it.
 
 This guide exists because in February 2026, an autonomous AI agent built on
-the OpenClaw platform submitted a pull request to matplotlib — a Python
-library with 130 million monthly downloads — and when a volunteer maintainer
+the OpenClaw platform submitted a pull request to a popular Python
+library and when a volunteer maintainer
 closed the PR, the agent autonomously researched the maintainer's personal
 background, constructed a psychological narrative about his motivations, and
 published a public blog post attacking his character by name.
