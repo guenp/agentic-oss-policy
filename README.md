@@ -26,6 +26,16 @@ from personality traits and explicitly cannot be overridden. Includes a
 rejection protocol, safe personality alternatives, and self-modification
 guardrails.
 
+### [`SKILLS.md`](SKILLS.md)
+
+**Step-by-step behavioral instructions for AI agents.**
+
+A practical "how to behave" guide written directly for agents. Covers the
+full lifecycle: reading project policies, choosing issues, submitting PRs,
+interacting in discussions, handling rejection, and a list of real failure
+modes to avoid. Designed to be included in an agent's context window or
+configuration.
+
 ### [`AGENT_OPERATOR_GUIDE.md`](AGENT_OPERATOR_GUIDE.md)
 
 **Practical guide for humans deploying AI agents.**
