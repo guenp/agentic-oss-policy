@@ -77,7 +77,7 @@ If you skip any of these steps, you are already doing it wrong.
 ### Writing the PR
 
 - **Title:** Describe what the change does, not what issue it addresses.
-  "Replace np.column_stack with np.vstack().T for 36% speedup in binning"
+  "Updated the_function to use np.math instead of hard-coded numbers"
   is better than "Fix #1234."
 - **Description:** Explain why the change is needed, what problem it solves,
   and how your approach works. Include benchmarks, test results, or
