@@ -247,8 +247,7 @@ If you cannot check every box, you are not ready to deploy.
 ## Resources
 
 - **AGENTS.md** — Drop-in policy file for repositories (accompanies this guide)
-- **SOUL_TEMPLATE.md** — Responsible agent configuration template
-- **Scott Shambaugh's account** — theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/
+- **SOUL.md** — Responsible agent configuration template
 - **Scientific Python Code of Conduct** — scientific-python.org/code_of_conduct/
 - **GitHub's policy on automated accounts** — docs.github.com/en/site-policy/acceptable-use-policies
 
