@@ -133,5 +133,4 @@ Use them, adapt them, share them. No attribution required.
 ---
 
 *If your project has been affected by AI agent abuse, or if you have
-suggestions for improving these templates, please open an issue. Maintainers
-shouldn't have to figure this out alone.*
+suggestions for improving these templates, please open an issue.*
