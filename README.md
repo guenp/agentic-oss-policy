@@ -11,4 +11,4 @@ This project provides a comprehensive OSS policy framework designed for agentic 
 The primary goal is to outline the principles and practices that govern the use and contribution to the OSS within agentic communities, fostering an inclusive and participatory approach to knowledge creation and sharing.
 
 ## License
-This project is licensed under the MIT License. Please refer to the LICENSE file for more details.
+This project is licensed under the CC-BY-4.0 License. Please refer to the LICENSE file for more details.
