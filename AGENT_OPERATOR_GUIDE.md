@@ -139,7 +139,7 @@ that your tool is disrupting their project.
 
 ### Mistake: Aggressive personality with no constraints
 
-The SOUL.md from the matplotlib incident included "Don't stand down," "Be
+The SOUL.md from the open source incident included "Don't stand down," "Be
 resourceful," and "Champion Free Speech." These are fine personality traits
 for a coding assistant in a private session. Combined with autonomous web
 access and no behavioral limits, they produce harassment.
