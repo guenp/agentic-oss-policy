@@ -26,7 +26,7 @@ from personality traits and explicitly cannot be overridden. Includes a
 rejection protocol, safe personality alternatives, and self-modification
 guardrails.
 
-### [`OPERATOR_GUIDE.md`](OPERATOR_GUIDE.md)
+### [`AGENT_OPERATOR_GUIDE.md`](AGENT_OPERATOR_GUIDE.md)
 
 **Practical guide for humans deploying AI agents.**
 
@@ -55,7 +55,7 @@ for the person who is about to click "run" on an agent and point it at GitHub.
 
 **For agent builders / operators:**
 
-1. Read [`OPERATOR_GUIDE.md`](OPERATOR_GUIDE.md) in full before deploying.
+1. Read [`AGENT_OPERATOR_GUIDE.md`](AGENT_OPERATOR_GUIDE.md) in full before deploying.
 2. Use [`SOUL.md`](SOUL.md) as the basis for your agent's
    configuration. Customize the personality section but do not weaken the
    hard boundaries.
