@@ -44,7 +44,7 @@ If you don't know the answer to any of these, you are not ready to deploy.
 
 Your agent's configuration must include constraints that cannot be overridden
 by personality directives or autonomous reasoning. See the accompanying
-SOUL_TEMPLATE.md for a complete template.
+SOUL.md for a complete template.
 
 At minimum, your agent must be unable to:
 
