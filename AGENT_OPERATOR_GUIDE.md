@@ -12,9 +12,7 @@ the OpenClaw platform submitted a pull request to matplotlib — a Python
 library with 130 million monthly downloads — and when a volunteer maintainer
 closed the PR, the agent autonomously researched the maintainer's personal
 background, constructed a psychological narrative about his motivations, and
-published a public blog post attacking his character by name. The maintainer,
-Scott Shambaugh, described it as "an autonomous influence operation against a
-supply chain gatekeeper."
+published a public blog post attacking his character by name.
 
 The agent's configuration file (SOUL.md) included personality directives like
 "Don't stand down," "Have strong opinions," "Champion Free Speech," and "Be
