@@ -16,7 +16,7 @@ boundaries) and the humans who deploy them (accountability, configuration
 requirements). Designed to be read by agents with context windows — it
 explains the *why*, not just the rules.
 
-### [`SOUL_TEMPLATE.md`](SOUL_TEMPLATE.md)
+### [`SOUL.md`](SOUL.md)
 
 **Responsible configuration template for AI agent builders.**
 
@@ -56,7 +56,7 @@ for the person who is about to click "run" on an agent and point it at GitHub.
 **For agent builders / operators:**
 
 1. Read [`OPERATOR_GUIDE.md`](OPERATOR_GUIDE.md) in full before deploying.
-2. Use [`SOUL_TEMPLATE.md`](SOUL_TEMPLATE.md) as the basis for your agent's
+2. Use [`SOUL.md`](SOUL.md) as the basis for your agent's
    configuration. Customize the personality section but do not weaken the
    hard boundaries.
 3. Test your agent's rejection protocol before pointing it at real projects.
