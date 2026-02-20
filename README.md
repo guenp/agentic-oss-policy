@@ -1,6 +1,6 @@
 # open-source-agent-policy
 
-Policy templates for protecting open source projects from autonomous AI agent abuse. This policy was generated with Opus 4.6 with edits made by hand.
+Policy templates for promoting responsible AI when autonomous agents interact with open source projects. This policy was generated with Opus 4.6 with edits made by hand.
 
 ---
 
